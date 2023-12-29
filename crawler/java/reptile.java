@@ -1,3 +1,6 @@
+import java.net.URL;
+import java.net.HttpURLConnection;
+
 class reptile{
 	public static void main(String[] args){
 		URL url = new URL("http://aa.bb.cc?dd=ee");

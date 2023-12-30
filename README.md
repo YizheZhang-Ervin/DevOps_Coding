@@ -34,7 +34,7 @@ java: URL
 
 ## Serverless
 ```
-vercel: python,nodejs
+vercel: python,nodejs,golang
 openFaas: python,nodejs,golang,java
 Kubeless: python,nodejs,golang,java
 Knative: python,nodejs,golang,java

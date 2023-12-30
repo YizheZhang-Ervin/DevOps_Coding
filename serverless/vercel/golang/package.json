@@ -1,8 +1,6 @@
 {
-  "name": "template-go-vercel",
+  "name": "vercel-golang",
   "version": "1.0.0",
-  "repository": "https://github.com/riccardogiorato/template-go-vercel",
-  "author": "riccardogiorato <https://riccardogiorato.com/>",
   "license": "MIT",
   "dependencies": {
     "vercel": "^31.2.2"

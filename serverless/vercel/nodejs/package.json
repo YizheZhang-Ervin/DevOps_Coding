@@ -1,10 +1,16 @@
 {
-  "repository": "https://github.com/vercel/examples.git",
-  "license": "MIT",
-  "private": true,
-  "devDependencies": {
-    "@types/node": "^17.0.42",
-    "@vercel/node": "^2.9.6",
-    "typescript": "^4.7.3"
+  "name": "vercel-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }

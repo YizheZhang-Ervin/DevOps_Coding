@@ -31,3 +31,11 @@ nodejs: request
 golang: http
 java: URL
 ```
+
+## Serverless
+```
+vercel: python,nodejs
+openFaas: python,nodejs,golang,java
+Kubeless: python,nodejs,golang,java
+Knative: python,nodejs,golang,java
+```

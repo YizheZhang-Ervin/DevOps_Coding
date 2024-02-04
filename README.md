@@ -39,3 +39,11 @@ openFaas: python,nodejs,golang,java
 Kubeless: python,nodejs,golang,java
 Knative: python,nodejs,golang,java
 ```
+
+## SSH
+```
+python: paramiko
+nodejs: node-ssh
+golang: crypto/ssh
+java: sshj
+```
